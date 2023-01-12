@@ -1,0 +1,23 @@
+ </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://erinbench.github.io/">erinbench.github.io</a></h1>
+      
+
+      <h1 id="erin-bench">Erin Bench</h1>
+
+<h2 id="colors">Colors</h2>
+
+<ul>
+  <li>Purple</li>
+  <li>Blue</li>
+  <li>Green</li>
+  <li>Yellow</li>
+</ul>
+
+<h2 id="code-snippet">Code Snippet</h2>
+<p>\\html<a href="www.snow.edu">Snow</a>\\</p>
+
+<h2 id="link">Link</h2>
+<p>my Github site [Erin Bench Github] (https://erinbench.github.io/)</p>
