@@ -8,8 +8,8 @@
 * Yellow
 
 ## Code Snippet
-\\\ html
-< a href= "www.snow.edu"> Snow </a>
+\\\html
+<a href= "www.snow.edu"> Snow </a>
 \\\
 
 ## Link
