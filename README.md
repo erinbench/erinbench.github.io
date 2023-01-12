@@ -9,7 +9,7 @@
 
 ## Code Snippet
 ```html
-<a href="www.snow.edu">sbiw</a>
+<a href="https://erinbench.github.io/">erinbench.github.io</a>
 ```
 
 ## Link
