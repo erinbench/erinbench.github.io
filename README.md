@@ -11,4 +11,4 @@
 
 
 ## Link
-my Github site [Erin Bench Github] (https://erinbench.github.io/)
+my Github site [Erin Bench Github](https://erinbench.github.io/)
